@@ -11,3 +11,10 @@ margin: 20px 300px;
     border-radius: 8px;
     background-color: rgb(243, 181, 238);
 }
+.mainLoader{
+position: absolute;
+    top: 10%;
+    left: 50%;
+   
+}
+
